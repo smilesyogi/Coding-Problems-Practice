@@ -1,4 +1,4 @@
-//LINKED LIST 
+//LINKED LIST GEEKS FOR GEEKS
 /*Structure of the node of the linked list is as
 
 struct Node {
